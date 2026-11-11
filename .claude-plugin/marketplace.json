@@ -1,0 +1,14 @@
+{
+  "name": "myharness-marketplace",
+  "owner": {
+    "name": "sg.hong"
+  },
+  "plugins": [
+    {
+      "name": "myharness",
+      "source": "./plugins/myharness",
+      "description": "라운드 단위 개발 하네스: 검증 · 정리 에이전트와 위험 명령 차단 · 아키텍처 린트 Hook",
+      "version": "0.1.0"
+    }
+  ]
+}
